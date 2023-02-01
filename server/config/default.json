@@ -1,4 +1,4 @@
 {
   "serverPort": 5000,
-  "dbUrl": ""
+  "dbUrl": "mongodb+srv://bukhanchik:Slowpock@cluster0.6frx8uf.mongodb.net/?retryWrites=true&w=majority"
 }
